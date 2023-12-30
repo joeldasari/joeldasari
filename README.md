@@ -3,7 +3,7 @@
 
 - 👨‍💻 Check out my Portfolio Website here [https://joeld-portfolio.netlify.app/](https://joeld-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Tailwind CSS, MERN**
+- 💬 Ask me about **React, Tailwind CSS, and MERN**
 
 - 📫 Reach me at **joeldasari10@gmail.com**
 
