@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeldasari&label=Profile%20views&color=0e75b6&style=flat" alt="joeldasari" /> </p>
 
-- 👨‍💻 Check out my latest Portfolio Website [https://joeld-portfolio.netlify.app/](https://joeld-portfolio.netlify.app/)
+- 👨‍💻 Check out my Portfolio Website here [https://joeld-portfolio.netlify.app/](https://joeld-portfolio.netlify.app/)
 
 - 💬 Ask me about **React, Tailwind CSS, MERN**
 
 - 📫 Reach me at **joeldasari10@gmail.com**
 
-- 📄 Check out my latest Resume [https://drive.google.com/file/d/1bAQNH153PNaey169b2jZuul5K7NX0zbV/view?usp=sharing](https://drive.google.com/file/d/1bAQNH153PNaey169b2jZuul5K7NX0zbV/view?usp=sharing)
+- 📄 Check out my Resume here [https://drive.google.com/file/d/1bAQNH153PNaey169b2jZuul5K7NX0zbV/view?usp=sharing](https://drive.google.com/file/d/1bAQNH153PNaey169b2jZuul5K7NX0zbV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
