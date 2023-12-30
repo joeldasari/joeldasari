@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joel D</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joeldasari&label=Profile%20views&color=0e75b6&style=flat" alt="joeldasari" /> </p>
-
 - 👨‍💻 Check out my Portfolio Website here [https://joeld-portfolio.netlify.app/](https://joeld-portfolio.netlify.app/)
 
 - 💬 Ask me about **React, Tailwind CSS, MERN**
@@ -19,8 +17,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,tailwindcss,nodejs,expressjs,mongodb,firebase,postman"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeldasari&show_icons=true&locale=en&layout=compact&cache_seconds=10" alt="joeldasari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeldasari&show_icons=true&locale=en&layout=compact&cache_seconds=0" alt="joeldasari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeldasari&show_icons=true&locale=en&cache_seconds=10" alt="joeldasari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeldasari&show_icons=true&locale=en&cache_seconds=0" alt="joeldasari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeldasari&cache_seconds=10" alt="joeldasari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeldasari&cache_seconds=0" alt="joeldasari" /></p>
