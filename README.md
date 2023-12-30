@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joel D</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joeldasari&label=Profile%20views&color=0e75b6&style=flat" alt="joeldasari" /> </p>
-
 - 👨‍💻 Check out my latest Portfolio Website [https://joeld-portfolio.netlify.app/](https://joeld-portfolio.netlify.app/)
 
 - 💬 Ask me about **React, Tailwind CSS, MERN**
@@ -18,3 +16,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,tailwindcss,nodejs,expressjs,mongodb,firebase,postman"/> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeldasari&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeldasari&show_icons=true&locale=en" alt="stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeldasari&" alt="streak-stats" /></p>
