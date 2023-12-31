@@ -17,8 +17,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,tailwindcss,nodejs,expressjs,mongodb,firebase,postman"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeldasari&show_icons=true&locale=en&layout=compact&cache_seconds=5" alt="joeldasari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeldasari&show_icons=true&locale=en&layout=compact&cache_seconds=10" alt="joeldasari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeldasari&show_icons=true&locale=en&cache_seconds=5" alt="joeldasari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeldasari&show_icons=true&locale=en&cache_seconds=10" alt="joeldasari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeldasari&cache_seconds=5" alt="joeldasari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeldasari&cache_seconds=10" alt="joeldasari" /></p>
