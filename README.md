@@ -3,7 +3,7 @@
 
 - 👨‍💻 Check out my Portfolio Website here [https://joeld-portfolio.netlify.app/](https://joeld-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Tailwind CSS, and MERN**
+- 💬 Ask me about **React, Tailwind CSS, and MERN Stack**
 
 - 📫 Reach me at **joeldasari10@gmail.com**
 
@@ -17,8 +17,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,tailwindcss,nodejs,expressjs,mongodb,firebase,postman"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeldasari&show_icons=true&locale=en&layout=compact&cache_seconds=10" alt="joeldasari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeldasari&show_icons=true&locale=en&layout=compact&cache_seconds=0" alt="joeldasari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeldasari&show_icons=true&locale=en&cache_seconds=10" alt="joeldasari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeldasari&show_icons=true&locale=en&cache_seconds=0" alt="joeldasari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeldasari&cache_seconds=10" alt="joeldasari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeldasari&cache_seconds=0" alt="joeldasari" /></p>
