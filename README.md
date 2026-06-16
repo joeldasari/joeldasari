@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">MS CS @ UCF | GTA @ UCF | Software Developer</h3>
 
-- 🔭 Applying for **GSoC 2026** at webpack/webpack.js.org
-- 👨‍💻 Portfolio: [joeldasari.vercel.app](https://joeldasari.vercel.app/)
-- 💬 Ask me about **React, TypeScript, Node.js, Tailwind CSS, MongoDB, or anything full-stack**
-- 📫 Reach me at **joeldasari10@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joeldasari01" target="blank">
