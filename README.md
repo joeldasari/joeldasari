@@ -8,7 +8,7 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwindcss,nodejs,express,postgresql,mongodb,git,github" />
 </p>
