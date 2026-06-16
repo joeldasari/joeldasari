@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joeldasari01" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
 
