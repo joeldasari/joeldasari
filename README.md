@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
-<h3 align="center">Full-Stack Software Engineer | M.S. CS @ UCF | GSoC 2026 Aspirant</h3>
+<h3 align="center">MS CS @ UCF | GTA @ UCF | Software Developer</h3>
 
 - 🔭 Applying for **GSoC 2026** at webpack/webpack.js.org
 - 👨‍💻 Portfolio: [joeldasari.vercel.app](https://joeldasari.vercel.app/)
