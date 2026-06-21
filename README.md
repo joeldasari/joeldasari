@@ -10,7 +10,7 @@
 
 <h3 align="left">Skills:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python, java, javascript, react, next.js, supabase" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,reactjs,nextjs,supabase" />
 </p>
 
 <p>
