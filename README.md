@@ -12,7 +12,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,spring,aws" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeldasari&cache_seconds=0" alt="joeldasari" />
-</p>
